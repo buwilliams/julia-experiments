@@ -13,4 +13,4 @@ Experiments with the Julia Programming Language
 
 ## data structures
 
-- [queue](queue.data.jl) [official](https://github.com/JuliaCollections/DataStructures.jl/blob/master/src/queue.jl)
+- [queue](queue.data.jl) - [official](https://github.com/JuliaCollections/DataStructures.jl/blob/master/src/queue.jl)
