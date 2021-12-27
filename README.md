@@ -10,3 +10,7 @@ Experiments with the Julia Programming Language
 ## algorithms
 
 - [binary search](binary_search.algorithm.jl)
+
+## data structures
+
+- [queue](queue.data.jl) [official](https://github.com/JuliaCollections/DataStructures.jl/blob/master/src/queue.jl)
